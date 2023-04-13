@@ -79,12 +79,14 @@
   The <small></small> tag is used to reduce the size and emphasis on content.
 
 6. Explain block Elements and also explain the list of block elements and why they are used from below:
+    - Block elements are a HTML element that starts a new line on the web page and extends to the full horizontal space of its parent element.
+
  - html
-
+    HTML is the standard language used to discribe the content on a web browsers.
  - head
-
+   
  - body
-
+   
  - header
 
  - nav
@@ -94,7 +96,7 @@
  - section
 
  - article
-
+   
  - div
 
  - aside
@@ -102,12 +104,14 @@
  - footer
 
  - span
- 
+
  - small
 
 7. Explain why accessibility is important and also explain the accessibility properties like:
  - landmark roles
+
  - aria labels
+
  - image alternative texts
 
 8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
