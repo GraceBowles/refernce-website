@@ -81,32 +81,31 @@
 6. Explain block Elements and also explain the list of block elements and why they are used from below:
     - Block elements are a HTML element that starts a new line on the web page and extends to the full horizontal space of its parent element.
 
- - html
-    HTML is the standard language used to discribe the content on a web browsers.
+ - html: HTML is the standard language used to discribe the content on a web browsers.
 
- - head
+ - head: is an element that contains all the metadata.
    
- - body
+ - body: is used to groups the contents of the HTML document.
    
- - header
+ - header: is the introductory content at the top of the page that includes the logo or company name and the main navigation.
 
- - nav
+ - nav: is an element used to represent a section of a page thats purpose is to provide navigation links.
 
- - main
+ - main: is an element wraps around the main content of the page. 
 
- - section
+ - section: section is used to wrap around all pieces of content related.
 
- - article
+ - article: is an element that represents self-contained composition in a web page.
    
- - div
+ - div: is a block element used to group elements together. 
 
- - aside
+ - aside: is an element that represents a portion of a document that content is indirectly related to the document's main content.
 
- - footer
+ - footer: is a section used at the end of web pages. This section will have things such as links, copyright, and extra information about the page.
 
- - span
+ - span: is an inline container used to mark up a part of text.
 
- - small
+ - small: represents side-comments and small print.
 
 7. Explain why accessibility is important and also explain the accessibility properties like:
  - landmark roles: Are to help those using screen readers to jump to spacific sections on a website.
@@ -183,5 +182,10 @@ Alternatively %, px or em can be used instead of fractions.
 The area property in CSS used for child elements referrer to specific grid lines. Thes lines include grid-column-start/grid-row-start and grid-column-end/grid-row-end. The line starts where the item begins and the line ends where the item ends.
 
 24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
+.hideFullColumn tr > .hidecol
+{
+    display:none;
+}
 
 25. Explain the steps to add google fonts to your CSS file and how will you link it to the html file.
+First you have to get the font you want from google fonts. Once you picked your font you copy the google font link and paste it into your head. You will then select your font style when in the css.
