@@ -148,6 +148,7 @@ Flexbox parent element allowa for its child elements automatically align themsel
   flex-flow: row wrap;
  }
 18. What is CSS grid property?
+ CSS grid property sets all of the explicit and implicit grid properties in one declaration.
 
 19. Write the parent and two sub-properties used for CSS Grid Property.
 
