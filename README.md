@@ -29,8 +29,8 @@
 </ul>
 
 <ol>
-    <li>1. First example. </li>
-    <li>2. Second example.</li>
+    <li>1. Ordered list example. </li>
+    <li>2.  Ordered list example.</li>
 </ol>
 
 <dl>
@@ -50,33 +50,33 @@
    <q>Example of quote</q>
    The <q></q> is a tag used to mark quotes that are within other elements such as paragraphs.
 
-- blockquote
-  <blockquote></blockquote>
-  The <blockquote></blockquote> tag is used for large stand alone quotes.
+- blockquote:
+  <blockquote>Example of blockquote</blockquote>
+  The blockquote tag is used for large stand alone quotes.
 
-- cite
-  <cite></cite>
-  The <cite></cite> tag is used to mark the source of the quote. 
+- Cite:
+  <cite>Example of cite</cite>
+  The cite tag is used to mark the source of the quote. 
 
 - em
-  <em></em>
-  The <em></em> tag creates emphasis.
+  <em>Empahsize example.</em>
+  The em tag creates emphasis.
 
 - strong
-  <strong></strong>
-  The <strong></strong> tag is used to create empasis and importance to the content.
+  <strong>Example of strong</strong>
+  The strong tag is used to create empasis and importance to the content.
 
 - b
-   <b></b>
-   The <b></b> tag is used for keywords.
+   <b>Examlpe of keywords.</b>
+   The b tag is used for keywords.
 
 - i
-  <i></i>
-  The <i></i> tag is used when the content is a technical term or in a different language.
+  <i>Example of i tag.</i>
+  The i tag is used when the content is a technical term or in a different language.
 
 - small
-  <small></small>
-  The <small></small> tag is used to reduce the size and emphasis on content.
+  <small>Example of small.</small>
+  The small tag is used to reduce the size and emphasis on content.
 
 6. Explain block Elements and also explain the list of block elements and why they are used from below:
     - Block elements are a HTML element that starts a new line on the web page and extends to the full horizontal space of its parent element.
