@@ -122,6 +122,7 @@ CSS is Cascading Style Sheets. CSS is the language used to control the apperance
 CSS property is a selector. For an example, you are able to change the font style, size and colour. CSS value is the setting for the property. For example, the colour can be any colour and the font-family can be a varity of fonts.
 
 10. Why do we use border-box property in CSS?
+    The border-box property in CSS is used to create any border and padding values specifically for an element.
 
 11. Explain different type of ways we can add spacing to an element
 
