@@ -166,7 +166,7 @@ Flexbox parent element allowa for its child elements automatically align themsel
 }
 
 20. What is the difference between display: flex and display: grid?
-
+Display: flex is used for layout in one dimension in a row or column. Display: grid is used for two-dimensional layout in rows and columns at the same time.
 21. What sub-property we use to divide elements in CSS Grid properties?
 
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
