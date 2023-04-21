@@ -143,7 +143,10 @@ CSS property is a selector. For an example, you are able to change the font styl
 Flexbox parent element allowa for its child elements automatically align themselves into a column or row with the auto width and height.
 
 17. Write a code example on how you will use a flexbox property on a parent element with sub properties.
-
+ .box{
+  display: flex;
+  flex-flow: row wrap;
+ }
 18. What is CSS grid property?
 
 19. Write the parent and two sub-properties used for CSS Grid Property.
