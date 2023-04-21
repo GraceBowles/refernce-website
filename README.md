@@ -126,7 +126,9 @@ CSS property is a selector. For an example, you are able to change the font styl
 
 11. Explain different type of ways we can add spacing to an element
     The different type of ways spacing can be added to an element includes margins and padding.
+    
 12. What is the main difference between margin and padding?
+    Padding displays the amount of inner space an elememt has. A margin is the whitespace available around the element.
 
 13. What are different types of display properties?
 
