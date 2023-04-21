@@ -119,6 +119,7 @@
 CSS is Cascading Style Sheets. CSS is the language used to control the apperance of HTML pages. A CSS file is first created in codes editor, saving the extension .css.
 
 9. What is the difference between CSS property and value (write explanation and an example code)
+CSS property is a selector. For an example, you are able to change the font style, size and colour. CSS value is the setting for the property. For example, the colour can be any colour and the font-family can be a varity of fonts.
 
 10. Why do we use border-box property in CSS?
 
