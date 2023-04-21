@@ -116,6 +116,7 @@
  - image alternative texts: Describe images using alternative text. The alternative text is used to describe the photo if it fails to download and for those who cannot see it.
 
 8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
+CSS is Cascading Style Sheets. CSS is the language used to control the apperance of HTML pages. A CSS file is first created in codes editor, saving the extension .css.
 
 9. What is the difference between CSS property and value (write explanation and an example code)
 
