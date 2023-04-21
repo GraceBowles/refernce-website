@@ -137,6 +137,7 @@ CSS property is a selector. For an example, you are able to change the font styl
    A flexbox is a one-dimensional layout used to arrange items in rows or columns.
 
 15. What are different types of flexbox properties and what is the major difference between them?
+    The different types of flexbox properties are flex-wrap, flex-direction, flex-flow, justify-content, align-items and align-content. The main difference between flexbox properties is the movements being arranged horizontally and vertically.
 
 16. Explain with code the use of flexbox property on a parent element and also explain the sub properties you might need for the flexbox property
 
