@@ -83,6 +83,7 @@
 
  - html
     HTML is the standard language used to discribe the content on a web browsers.
+
  - head
    
  - body
@@ -108,11 +109,11 @@
  - small
 
 7. Explain why accessibility is important and also explain the accessibility properties like:
- - landmark roles
+ - landmark roles: Are to help those using screen readers to jump to spacific sections on a website.
+  
+ - aria labels: Are accessible rich internet applications.
 
- - aria labels
-
- - image alternative texts
+ - image alternative texts: Describe images using alternative text. The alternative text is used to describe the photo if it fails to download and for those who cannot see it.
 
 8. What is CSS and how can we implement CSS to our html file (write a proper explanation with the code required to attach a CSS file inside html file)
 
