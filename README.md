@@ -125,7 +125,7 @@ CSS property is a selector. For an example, you are able to change the font styl
     The border-box property in CSS is used to create any border and padding values specifically for an element.
 
 11. Explain different type of ways we can add spacing to an element
-
+    The different type of ways spacing can be added to an element includes margins and padding.
 12. What is the main difference between margin and padding?
 
 13. What are different types of display properties?
