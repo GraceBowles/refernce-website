@@ -97,5 +97,19 @@
    }</p>
 <p>18. What is CSS grid property?</p>
 <p> CSS grid property sets all of the explicit and implicit grid properties in one declaration.</p>
+<p>19. Write the parent and two sub-properties used for CSS Grid Property.</p>
+<p>.grid{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+    grid-tem  grid-template-rows: repeat(4, minmax(100px, auto));
+  }
+  
+  .item {
+    display: grid;
+    grid-column: 2 / 7;
+    grid-row: 2 / 4;
+    grid-template-columns: subgrid;
+    grid-template-rows: subgrid;
+  }</p>
 </body>
 </html>

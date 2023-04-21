@@ -151,6 +151,19 @@ Flexbox parent element allowa for its child elements automatically align themsel
  CSS grid property sets all of the explicit and implicit grid properties in one declaration.
 
 19. Write the parent and two sub-properties used for CSS Grid Property.
+.grid{
+  display: grid;
+  grid-template-columns: repeat(9,1fr);
+  grid-tem  grid-template-rows: repeat(4, minmax(100px, auto));
+}
+
+.item {
+  display: grid;
+  grid-column: 2 / 7;
+  grid-row: 2 / 4;
+  grid-template-columns: subgrid;
+  grid-template-rows: subgrid;
+}
 
 20. What is the difference between display: flex and display: grid?
 
