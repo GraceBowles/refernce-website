@@ -126,13 +126,15 @@ CSS property is a selector. For an example, you are able to change the font styl
 
 11. Explain different type of ways we can add spacing to an element
     The different type of ways spacing can be added to an element includes margins and padding.
-    
+
 12. What is the main difference between margin and padding?
     Padding displays the amount of inner space an elememt has. A margin is the whitespace available around the element.
 
 13. What are different types of display properties?
+    The different types of a display properties are flex, grid and inline-block.
 
-14. Write a brief explanation of flexbox property
+14. Write a brief explanation of flexbox property.
+   A flexbox is a one-dimensional layout used to arrange items in rows or columns.
 
 15. What are different types of flexbox properties and what is the major difference between them?
 
