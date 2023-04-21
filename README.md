@@ -167,11 +167,20 @@ Flexbox parent element allowa for its child elements automatically align themsel
 
 20. What is the difference between display: flex and display: grid?
 Display: flex is used for layout in one dimension in a row or column. Display: grid is used for two-dimensional layout in rows and columns at the same time.
+
 21. What sub-property we use to divide elements in CSS Grid properties?
+The sub-property we use to divide elements in CSS Grid properties is <div>.
 
 22. What unit we use to fractionally divide the element width in CSS Grid property and what are others unit we can use alternatively? (Write a code example)
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+}
+Alternatively %, px or em can be used instead of fractions.
 
 23. What is the area property in CSS grid we use for the child elements?
+The area property in CSS used for child elements referrer to specific grid lines. Thes lines include grid-column-start/grid-row-start and grid-column-end/grid-row-end. The line starts where the item begins and the line ends where the item ends.
 
 24. Which sub-property of display grid you can use to prevent displaying empty columns. Write a code example of that property.
 
